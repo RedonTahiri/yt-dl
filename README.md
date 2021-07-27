@@ -1,10 +1,11 @@
 yt-dl.lua
 =========
 
+A simple commandline tool to download videos from youtube
+
 Usage
 -----
 
-A simple commandline tool to download videos from youtube
 Usage: ./yt-dl.lua ID [audioformat [videoformat]]
 
 where:
